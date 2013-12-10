@@ -15,14 +15,14 @@
     margin: 0px 0px;
     padding: 5px 5px 5px 5px;
     border: 0px solid #333;
-    color: #000;
+    color: #000 !important;
 }
 
 #Date {
     font-family: 'Segoe Ui', sans-serif;
     font-size: 16px;
     text-align: center;
-    color:#000;
+    color:#000 !important;
 }
 
 ul.jamm {
@@ -39,7 +39,7 @@ ul li.jam {
     font-family: 'Segoe Ui', sans-serif;
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
-    color:#000;
+    color:#000 !important;
 }
 
 #point {
