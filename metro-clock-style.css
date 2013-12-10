@@ -19,9 +19,10 @@
 }
 
 #Date {
-    font-family: 'Segoe Ui', Arial, Helvetica, sans-serif;
+    font-family: 'Segoe Ui', sans-serif;
     font-size: 16px;
     text-align: center;
+    color:#000;
 }
 
 ul.jamm {
@@ -38,6 +39,7 @@ ul li.jam {
     font-family: 'Segoe Ui', sans-serif;
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
+    color:#000;
 }
 
 #point {
